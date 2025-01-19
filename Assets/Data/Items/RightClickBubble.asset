@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 894b7db3173f9584ca51638aa2a0439c, type: 3}
+  m_Name: RightClickBubble
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 3758286036030773418, guid: b6bf0f74e7872d5419b57fc54d26a40a, type: 3}
+  Name: Right Click Bubble
+  Description: 
+  Icon: {fileID: 0}
+  CursorTexture: {fileID: 2800000, guid: e74f54535bde8c143831adac6df8bac5, type: 3}
+  CursorHotspot: {x: 100, y: 100}
+  Health: 5
+  RewardOnHurt: 1
+  RewardOnDeath: 2
